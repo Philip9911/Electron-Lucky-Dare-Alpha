@@ -1,0 +1,9 @@
+{
+  "name": "Dare Study System V5",
+  "short_name": "Dare Study",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "description": "Study dare probability and custom level tracker"
+}
